@@ -1,7 +1,2 @@
 # Unitygame
-$ git status
-# On branch master
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#   README
+this folder have my projects made by Unity
